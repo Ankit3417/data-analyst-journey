@@ -1,1 +1,10 @@
-Week 1 - Pivot Tables & Power Query ## What this project does Cleans, transforms, merges, and appends synthetic BGV verification case data (Clean -> Transform -> Merge -> Append -> Analyze) using Power Query in Power BI Desktop. ## Key finding Europe has the highest verification problem rate at 23.3% (Discrepancy + Unable to Verify), compared to 17.7% in North America, 14.9% in Southeast Asia, and 12.1% in Middle East - worth investigating whether this is a source-response issue specific to European institutions. ## Skills used Power Query: Applied Steps, data type changes, column remove/rename, row filtering, Merge Queries, Append Queries. Pivot analysis: Region x Status cross-tab.
+# Week 1 - Pivot Tables & Power Query
+
+## What this project does
+Cleans, transforms, merges, and appends synthetic BGV verification case data (Clean -> Transform -> Merge -> Append -> Analyze) using Power Query in Power BI Desktop.
+
+## Key finding
+Europe has the highest verification problem rate at 23.3% (Discrepancy + Unable to Verify), compared to 17.7% in North America, 14.9% in Southeast Asia, and 12.1% in the Middle East — worth investigating whether this is a source-response issue specific to European institutions.
+
+## Skills used
+Power Query: Applied Steps, data type changes, column remove/rename, row filtering, Merge Queries, Append Queries. Pivot analysis: Region x Status cross-tab.
